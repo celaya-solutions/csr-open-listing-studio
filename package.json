@@ -1,6 +1,7 @@
 {
-  "name": "open-listing-studio",
+  "name": "@celaya-solutions/csr-open-listing-studio",
   "private": true,
+  "license": "LicenseRef-CSR-Noncommercial-1.0",
   "type": "module",
   "scripts": {
     "dev": "concurrently -n ui,api -c cyan,green \"vite\" \"tsx watch src/server/node.ts\"",
