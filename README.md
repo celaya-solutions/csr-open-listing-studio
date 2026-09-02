@@ -59,4 +59,4 @@ Use the course guide to deploy the backend to Railway and the frontend to Vercel
 
 ## License
 
-CSR Noncommercial License 1.0. Fork, study, modify, and share for noncommercial purposes. Keep the Celaya Solutions Research Course Edition branding. See [LICENSE](LICENSE).
+CSR-authored additions use the CSR Noncommercial License 1.0. Fork, study, modify, and share those additions for noncommercial purposes, and keep the Celaya Solutions Research Course Edition branding. Imported OpenListingStudio code remains under its preserved MIT notice. See [LICENSE](LICENSE) and [LICENSE-UPSTREAM](LICENSE-UPSTREAM).

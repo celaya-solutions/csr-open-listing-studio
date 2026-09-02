@@ -41,8 +41,8 @@ no API key, $0).
 <!-- graft:end -->
 ## Course edition change log
 
-- Applied the CSR license across the full project catalog and clarified branding for software without an interface.
-- Relicensed Celaya-owned code under the CSR Noncommercial License 1.0, made the required CSR mark visible in the app, and removed the old import record.
+- Restored the upstream import record and MIT notice, clarified the CSR license boundary, expanded visible branding, and documented the frozen, no-upstream-sync policy.
+- Added the CSR course-use policy and a visible CSR mark for CSR-authored additions.
 - Ignored Vercel's local project-link folder after the staging release.
 - Normalized pnpm's trusted build-dependency list so clean Vercel and Railway installs parse it correctly.
 - Added the Railway IaC SDK required to review and apply the checked-in project plan.

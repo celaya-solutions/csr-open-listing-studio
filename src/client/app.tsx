@@ -22,7 +22,10 @@ export function App() {
             <div className="size-7 rounded-lg bg-foreground flex items-center justify-center">
               <Store size={15} className="text-background" />
             </div>
-            <span className="font-semibold text-sm">Listing Studio</span>
+            <div className="min-w-0">
+              <span className="block font-semibold text-sm">Listing Studio</span>
+              <span className="block text-[9px] leading-tight text-faint">Celaya Solutions Research Course Edition</span>
+            </div>
           </div>
           <nav className="p-3">
             <div className="text-[11px] font-semibold uppercase tracking-[0.08em] text-muted px-2 py-2">Studio</div>
@@ -45,7 +48,7 @@ export function App() {
           <div className="mt-auto p-4 text-[11px] text-faint leading-relaxed">
             OpenListingStudio
             <br />
-            CSR · noncommercial
+            Celaya Solutions Research Course Edition
           </div>
         </aside>
 
