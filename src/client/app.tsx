@@ -45,7 +45,7 @@ export function App() {
           <div className="mt-auto p-4 text-[11px] text-faint leading-relaxed">
             OpenListingStudio
             <br />
-            BYOK · open source
+            CSR · noncommercial
           </div>
         </aside>
 

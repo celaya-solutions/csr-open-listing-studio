@@ -1,4 +1,4 @@
-> **Celaya Solutions Research Course Edition.** Start with [COURSE_EDITION.md](COURSE_EDITION.md). Use fake data only.
+> **Celaya Solutions Research Course Edition.** Forks and changes are welcome for noncommercial use. This CSR branding must remain. Start with [COURSE_EDITION.md](COURSE_EDITION.md) and use fake data only.
 
 <p align="center">
   <img src="readme-banner.png" alt="OpenListingStudio" width="840" />
@@ -6,9 +6,7 @@
 
 # OpenListingStudio
 
-[![Deploy with Clawnify](https://app.clawnify.com/deploy-button.svg)](https://app.clawnify.com/deploy?repo=clawnify/OpenListingStudio)
-
-**The open-source AI listing studio for e-commerce sellers.** Brand kits, a product library with review ingestion, and a review-grounded **Launch** workflow that generates Amazon-compliant listing copy, a branded product image stack, and A+ content modules — plus directed-edit image tools for product photos. Amazon-first, agent-native, and **BYOK**: it runs on your own model keys, with no credits, no seats, and no lock-in. An open-source alternative to credit-based listing SaaS like Scalable — provided by [Clawnify.com](https://clawnify.com).
+**The source-available AI listing studio for e-commerce sellers.** Brand kits, a product library with review ingestion, and a review-grounded **Launch** workflow generate Amazon-compliant listing copy, a branded product image stack, and A+ content modules. It is a noncommercial Research Course Edition from Celaya Solutions.
 
 ## What it does
 
@@ -55,6 +53,10 @@ pnpm dev                          # UI on :5173, API on :8787
 
 The stack: React 19 + Tailwind v4 client, Hono API, SQLite database, object storage.
 
-## Deploy with Clawnify
+## Course deployment
 
-This repo ships a `clawnify.json`, so a Clawnify agent can deploy and operate it end-to-end — reviews in, launch out — from chat.
+Use the course guide to deploy the backend to Railway and the frontend to Vercel. Legacy provider adapters remain optional and are not required to pass.
+
+## License
+
+CSR Noncommercial License 1.0. Fork, study, modify, and share for noncommercial purposes. Keep the Celaya Solutions Research Course Edition branding. See [LICENSE](LICENSE).
